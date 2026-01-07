@@ -14,7 +14,9 @@ repetindoTextos.py — Repete um texto N vezes.
 
 ## Pré-requisitos ✅
 Python 3.x (recomendado >= 3.6)
+
 Sistema operacional: funciona em Windows, macOS e Linux
+
 Como executar 🔧
 Abra um terminal na pasta do projeto e rode:
 
